@@ -1,4 +1,4 @@
 # Resume
 ---
-![Resume](https://github.com/CPT-Dawn/Resume/blob/f76703454bbf974b62c3a9042ad5ac9620cd10f3/Resume.pdf)
+![Resume](https://github.com/CPT-Dawn/Resume/blob/a3fe27da7d26d5446b0572c531cd5ee90ac97de0/Resume.png)
 ---
